@@ -16,7 +16,7 @@ Because i’m tired of using putnbr and putstr.
 Use Makefile to run the project.
 
 ```bash
-make
+$> make
 
 ```
 
