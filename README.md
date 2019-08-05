@@ -3,13 +3,13 @@ Because i’m tired of using putnbr and putstr.
 
 ## Conversions
 
-* 0) Parsing for flags, field_width, precision, length_modifier.
-* 1) Parsing for conversion specifier.
-* 2) Displaying UTF-8 characters. (%C and %S).
-* 3) Computing unsigned numbers in base 2 (%b), 8 (%o), 10 (%u) and 16 (%x).
-* 4) Displaying signed numbers (%d %D %i).
-* 5) Displaying pointer address (%p).
-* 6) Long arithmetic for parsing a floating-point number is implemented (%f)
+* Parsing for flags, field_width, precision, length_modifier.
+* Parsing for conversion specifier.
+* Displaying UTF-8 characters. (%C and %S).
+* Computing unsigned numbers in base 2 (%b), 8 (%o), 10 (%u) and 16 (%x).
+* Displaying signed numbers (%d %D %i).
+* Displaying pointer address (%p).
+* Long arithmetic for parsing a floating-point number is implemented (%f)
 
 ## Compilation
 
