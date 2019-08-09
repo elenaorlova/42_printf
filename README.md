@@ -20,7 +20,7 @@ $> make
 
 ```
 
-## How to use
+## Usage
 ```
 #include "ft_printf.h"
 
